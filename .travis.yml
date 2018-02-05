@@ -51,5 +51,5 @@ deploy:
   file: activello.zip
   on:
     branch: master
-    repo: puikinsh/Activello
+    repo: cez81/Activello
     condition: "$DEPLOY = 1"
